@@ -1,15 +1,17 @@
 # Distracted Driver Detection
 
+Please refer to project's [report](Report.pdf) for details about the project
+
 Software used
 
-Theano
-Keras 
-OpenBlas
-cv2
-Cuda
-cudnn
-h5py
-pandas
+Theano,
+Keras,
+OpenBlas,
+cv2,
+Cuda,
+cudnn,
+h5py,
+pandas,
 numpy
 
 ## Instructions for running the model
