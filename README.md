@@ -1,5 +1,9 @@
 # Distracted Driver Detection
 
+According to the CDC motor vehicle safety division, one in five car accidents is caused by a distracted driver. Sadly, this translates to 425,000 people injured and 3,000 people killed by distracted driving every year.
+
+This project hopes to improve these alarming statistics by testing whether dashboard cameras can automatically detect drivers engaging in distracted behaviors
+
 Please refer to project's [report](Report.pdf) for details about the project
 
 Software used
